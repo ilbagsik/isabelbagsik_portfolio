@@ -1,0 +1,59 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+ <link href='https://fonts.googleapis.com/css?family=Katibeh' rel='stylesheet' type='text/css'>
+<meta charset="UTF-8" />
+<title>About</title>
+
+<style>
+p{font-family: Arial; 
+  color: antiquewhite; 
+  font-size: 13px; 
+  width: 5in;
+  }
+a:link{color: white;}
+a:visited{color: navajowhite;}
+a:hover{color: black;}
+
+#inspire {width: 700px;}
+#float {width: 700px;}
+#rob {width: 700px; }
+</style> 
+</head>
+
+<body style="background-color: rgb(191, 148, 127);  
+font-family: Katibeh; 
+color: antiquewhite; 
+font-size: 25px; 
+margin-top: 0.5in;
+margin-left: 0.5in;">
+<p>&nbsp;</p>
+
+<h1>About</h1>
+
+<p>Hi there, Isabel Bagsik, here! 
+
+</br>
+</br>My last name actually means “fierce” in my birth country, the Philippines, so I like to think that I got a little bit of that fire in me. I am a recent graduate from the University of California, Davis with a B.A. in Design (Visual Communication) and a B.A. in Technocultural Studies (a.k.a. Cinema and Digital Media). 
+
+</br>
+</br>I am a sucker for anything related to “Rocky”, “Forrest Gump”, “Back to the Future”, or Joseph Gordon-Levitt. Did I mention that I was highly involved with the Filipinx American community at UC Davis, immersing myself into the social justice and activist community, which led me to be interested in social design? 
+
+</br>
+</br>I also believe that self-expression is an important aspect to practice for yourself, whatever that form means to you. 
+    
+</br>    
+</br>Ah yes, I almost forgot...besides design, I also exercise my creativity through my <a target="_blank" href="http://unconventionalblisss.blogspot.com"/>fashion blog</a>.
+</p>
+
+</br>
+</br>
+<a style="
+font-family: Futura; 
+color: black; 
+font-size: 15px;
+text-decoration: none;" href="isabelbagsik.com">H O M E</a>
+&nbsp;
+ &nbsp;
+
+</body>
